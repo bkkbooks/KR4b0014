@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4b0014/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部二
+  hash: sha256:12d8190cadcf5eac3a9a3b81ae053c873dee29480bf15c1526bdc2f7417fab40
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4b0014_WYG_000-1a, image: WYG1063/WYG1063-0691a.png}
+body:
+  text: 何水部集别集類一梁提要臣等謹案何水部集一巻梁何遜撰遜字仲言東海郯人官至水部員外郎故自唐以來稱何水部事蹟具梁書本傳王僧孺嘗輯遜詩編為八巻宋黄伯思東觀餘論有遜集跋稱為春明宋氏本葢宋敏求家所傳其巻數尚與梁書相符而伯思云杜甫所引昏鴉接翅歸金粟裹搔頭等句不見集中則當時已有所佚脱今舊本久亡所謂八巻者不可復睹即永樂大典所引遜詩亦皆今世所習見則元明間已不存矣此本為正徳丁丑松江張紘所刋者列遜小傳凡詩九十五首附載范雲劉孝綽同作擬古二首聨句十三首末載黄伯思跋後附七召一篇末復有紘跋稱舊與隂鏗集偕刻紘以二家體裁各别不當比而同之公暇獨取是集刪其繁蕪同寅毘陵陸懋之永嘉李升之捐俸共刻然則是集又經紘刋削有所去取歟玉臺新詠載遜學青青河邊草一首此本標題作擬青青河畔草轉韻體為人作其人識節工歌與玉臺新詠不同考六朝以前之詩題無此體格顯為後人所妄加又青青河堤草為蔡邕之作青青河畔艸為枚乗之作六朝人所擬截然有别此傚邕體而題作畔字又題為後人據十九首而妄改復以古詩不換韻此詩換韻妄増轉韻體云云也盖字句亦多所竄亂非其舊矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:0890987c50e7ddeb78a6c5f73fe0fd1af3abfef4a14d017d5341fed9f074fd1c
+metadata:
+  title: 何水部集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-30 11:48:18.093440'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4b0014/KR4b0014_000.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:aee0967d276f55555b8b2651e3fb86094b4d72d6874886ebdd39be25649c963b
