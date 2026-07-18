@@ -25,8 +25,8 @@ assets:
   - {seq: 0, filename: KR4b0014_000.yaml, hash: 'sha256:e77619e1fa07c943f3fb5966a228074a12a45b109a41414fd1e14833adc2dadf'}
   - {seq: 1, filename: KR4b0014_001.yaml, hash: 'sha256:3ecf148924aa65241050c16de3289eea4b545f74c96acf7897f6f9cf4d8d8c06'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4b0014_000.markers.yaml, hash: 'sha256:072b68984856dafe71fdf340aeacc8dc33bc717274caf6d912d5090cd8370641'}
-  - {seq: 1, role: markers, filename: assets/KR4b0014_001.markers.yaml, hash: 'sha256:ac895287583e4a0eeb8be1a987949eba78e29626b445598fc9eca54f470f0dbb'}
+  - {seq: 0, role: markers, filename: assets/KR4b0014_000.markers.yaml, hash: 'sha256:47b48c4b61d35875aa5917ab8a41934ae3638caa955631fd5eaacfbef81e96a0'}
+  - {seq: 1, role: markers, filename: assets/KR4b0014_001.markers.yaml, hash: 'sha256:fe9029d9338f6d03ff152ebb75a94db6b021f05fddfc49fe288b440e2f613faa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -48,7 +48,7 @@ table_of_contents:
   label: 何水部集
   type: section
   level: 1
-hash: sha256:bb793853496fdae2909e75240e9b72fd2311ebbb909e9bb4906f9a76804ad9fd
+hash: sha256:78245d42fba0e475f1ef4f4e475c3c6948d8218476eb932cea1058237b6e241a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
